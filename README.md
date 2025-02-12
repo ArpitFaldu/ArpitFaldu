@@ -32,16 +32,18 @@ I have a passion for competitive programming in various coding platforms:
 - Codechef: 2-star coder (1490 max rating)
 - Leetcode: 250+ problems solved
 - Global Rank 319 in Codechef Starters 91
+<br>
 
 ## Education
 
 - B.Tech. in Computer Engineering (Pre-final year) - Dharmsinh Desai University, Nadiad (CPI: 8.38/10.0)
 - HSC (11-12 Science) - P.V.Modi School (JEE Main-96.98 PR | JEE Advance-3322 AIR)
 - SSC - P.V.Modi School (89.5%-99.66 PR)
+<br>
 
 ## Achievements
 
-
+<br>
 
 ## Skills
 
@@ -50,7 +52,7 @@ I have a passion for competitive programming in various coding platforms:
 - Web Development-Frameworks: MERN Stack, .NET Framework, .NET Core MVC, Spring Boot, Django
 - Tools: Google Colab, Postman, Selenium IDE, Git, GitHub
 - Database: MySQL, MongoDB
-
+<br>
 
 
 <!--## Projects
@@ -90,6 +92,7 @@ If you have any questions or would like to collaborate, reach out to me. I'm alw
 
 - Email: [falduarpit2004@gmail.com](mailto:falduarpit2004@gmail.com)
 - LinkedIn: [@arpit-faldu LinkedIn](https://www.linkedin.com/in/arpit-faldu/)
+<br>
   
 ## Competencies
 
@@ -100,6 +103,7 @@ Here are my key competencies and skills:
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 - ![java](https://img.shields.io/badge/java-%FFA500.svg?style=for-the-badge&logo=java&logoColor=white)
 - ![python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+<br>
 
 ### Web Development-Frameworks
  
@@ -109,12 +113,13 @@ Here are my key competencies and skills:
 - ![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
 - ![spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 - ![django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
+<br>
 
 
 ### Version Control
 
 - ![github](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) 
+<br>
 
  ### Machine Learning & Deep Learning
 - ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -122,7 +127,7 @@ Here are my key competencies and skills:
 - ![matplotlib](https://img.shields.io/badge/matplotlib-%23FF6C37.svg?style=for-the-badge&logo=matplotlib&logoColor=white) 
 - ![colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)
 - ![kaggle](https://img.shields.io/badge/kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white) 
-
+<br>
 
 ### Testing
 
@@ -150,21 +155,20 @@ Here are my key competencies and skills:
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 </p>
-
+<br>
 
 
 
 ## More About Me
-<br>
 
-🔭 I’m currently working on: MERN stack, .NET Framework & .NET Core MVC EF, Data Science, Machine Learning, Java (Core and Spring Boot) and Django.
-🌱 I’m currently learning: Machine Learning(Intermediate level), exploring Web Development frameworks and Data Science.
-👯 I’m looking to collaborate on: Web development projects (MERN, .NET, Java) and Machine Learning or Data Science projects.
-🤔 I’m looking for help with: Advanced concepts in Web Development, Data Science, and Machine Learning.
-💬 Ask me about: Web Development frameworks, Data Science, Databases, Operating Systems, and Machine Learning.
-📫 How to reach me: Feel free to connect with me for web dev or ML/Data Science discussions.
-😄 Passionate about: Building full-stack applications, exploring machine learning algorithms, playing with Database(i.e. backend), and diving deep into data.
-⚡ Fun fact: I love combining web development with machine learning and data science to create impactful solutions!
+🔭 I’m currently working on: MERN stack, .NET Framework & .NET Core MVC EF, Data Science, Machine Learning, Java (Core and Spring Boot) and Django.<br>
+🌱 I’m currently learning: Machine Learning(Intermediate level), exploring Web Development frameworks and Data Science.<br>
+👯 I’m looking to collaborate on: Web development projects (MERN, .NET, Java) and Machine Learning or Data Science projects.<br>
+🤔 I’m looking for help with: Advanced concepts in Web Development, Data Science, and Machine Learning.<br>
+💬 Ask me about: Web Development frameworks, Data Science, Databases, Operating Systems, and Machine Learning.<br>
+📫 How to reach me: Feel free to connect with me for web dev or ML/Data Science discussions.<br>
+😄 Passionate about: Building full-stack applications, exploring machine learning algorithms, playing with Database(i.e. backend), and diving deep into data.<br>
+⚡ Fun fact: I love combining web development with machine learning and data science to create impactful solutions!<br>
+
 Let’s build something amazing together!
-
 Stay curious and keep going! 😄
