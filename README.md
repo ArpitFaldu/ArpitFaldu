@@ -112,34 +112,22 @@ Here are my key competencies and skills:
 
 
 
-<!--
-### Cloud Technologies
-
-- ![gcp](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-- ![docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
-- ![aws](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-- ![heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
--->  
-
 ### Version Control
 
-- ![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 - ![github](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-
-<!-- ### Machine Learning & Deep Learning -->
-
-<!-- - ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) scikit-learn -->
-<!-- - ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) pandas -->
-<!-- - ![pytorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) PyTorch -->
-<!-- - ![matplotlib](https://img.shields.io/badge/matplotlib-%23FF6C37.svg?style=for-the-badge&logo=matplotlib&logoColor=white) matplotlib -->
-<!-- - ![colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)  -->
-<!-- - ![kaggle](https://img.shields.io/badge/kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white) Kaggle -->
+ ### Machine Learning & Deep Learning
+- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+- ![matplotlib](https://img.shields.io/badge/matplotlib-%23FF6C37.svg?style=for-the-badge&logo=matplotlib&logoColor=white) 
+- ![colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)
+- ![kaggle](https://img.shields.io/badge/kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white) 
 
 
 ### Testing
 
 - ![postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+- ![selenium](https://img.shields.io/badge/selenium-%23FF9800.svg?style=for-the-badge&logo=selenium&logoColor=white)
 
 <h3 align="left">Languages and Tools:</h3>
 <br>
@@ -150,8 +138,6 @@ Here are my key competencies and skills:
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -160,11 +146,9 @@ Here are my key competencies and skills:
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 </p>
 
 
@@ -173,31 +157,14 @@ Here are my key competencies and skills:
 ## More About Me
 <br>
 
-- 🔭 I’m currently working on: Competitive programming
-- 🌱 I’m currently learning: Competitive programming
-- 👯 I’m looking to collaborate on: Competitive programming projects
-- 🤔 I’m looking for help with: Competitive programming challenges
-- 💬 Ask me about: Competitive programming or any coding-related questions
-- 📫 How to reach me: Feel free to connect with me for any competitive programming discussions
-- 😄 Challenge, fun, joy lie in: Competitive programming
-- ⚡ Fun fact: Competitive programming is my passion!
-<!--
--  🔭 I’m currently working on: AI
-- 🌱 I’m currently learning: AI
-- 👯 I’m looking to collaborate on: AI projects
-- 🤔 I’m looking for help with: AI challenges
-- 💬 Ask me about: AI or any coding-related questions
-- 📫 How to reach me: Feel free to connect with me for any AI discussions
-- 😄 Challenge, fun, joy lie in: AI
-- ⚡ Fun fact: AI is my passion!
--->
-Let's dive into the exciting world of CP together!
+🔭 I’m currently working on: MERN stack, .NET Framework & .NET Core MVC EF, Data Science, Machine Learning, Java (Core and Spring Boot) and Django.
+🌱 I’m currently learning: Machine Learning(Intermediate level), exploring Web Development frameworks and Data Science.
+👯 I’m looking to collaborate on: Web development projects (MERN, .NET, Java) and Machine Learning or Data Science projects.
+🤔 I’m looking for help with: Advanced concepts in Web Development, Data Science, and Machine Learning.
+💬 Ask me about: Web Development frameworks, Data Science, Databases, Operating Systems, and Machine Learning.
+📫 How to reach me: Feel free to connect with me for web dev or ML/Data Science discussions.
+😄 Passionate about: Building full-stack applications, exploring machine learning algorithms, playing with Database(i.e. backend), and diving deep into data.
+⚡ Fun fact: I love combining web development with machine learning and data science to create impactful solutions!
+Let’s build something amazing together!
 
-Stay curious and keep coding! 😄
-
-
-
-
-<!--
-<img src="https://github-profile-trophy.vercel.app/?username=vasuvekariya">
--->
+Stay curious and keep going! 😄
