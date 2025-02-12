@@ -32,18 +32,14 @@ I have a passion for competitive programming in various coding platforms:
 - Codechef: 2-star coder (1490 max rating)
 - Leetcode: 250+ problems solved
 - Global Rank 319 in Codechef Starters 91
-<br>
 
 ## Education
 
 - B.Tech. in Computer Engineering (Pre-final year) - Dharmsinh Desai University, Nadiad (CPI: 8.38/10.0)
 - HSC (11-12 Science) - P.V.Modi School (JEE Main-96.98 PR | JEE Advance-3322 AIR)
 - SSC - P.V.Modi School (89.5%-99.66 PR)
-<br>
 
-## Achievements
-
-<br>
+<!--## Achievements-->
 
 ## Skills
 
@@ -52,39 +48,23 @@ I have a passion for competitive programming in various coding platforms:
 - Web Development-Frameworks: MERN Stack, .NET Framework, .NET Core MVC, Spring Boot, Django
 - Tools: Google Colab, Postman, Selenium IDE, Git, GitHub
 - Database: MySQL, MongoDB
-<br>
+  
 
+## Projects
+**➔ Bank Management REST API** <br>
+● **Tech and Tools:** Spring Boot, Spring Framework, Spring Data JPA, REST API, MySQL, Postman<br>
+● Developed Rest API with Spring Boot, Hibernate, and JPA for all bank operations, from the opening of an account to deposit, withdrawal, and transfer.<br>
+● It allows the automatic deletion of transaction history when an account is removed, hence ensuring data integrity and secure financial operations that are scalable.
 
-<!--## Projects
+➔ **Device Comparison Web app**<br>
+● **Tech and Tools:** Django Framework, Python, HTML, CSS.<br>
+● Designed a Django web application for comparing mobiles and laptops, integrating search, lter, and side-by-side comparison features.<br>
+● Integration of user reviews, wish lists, and admin device add, edit, and delete capabilities.<br>
 
-Here are some noteworthy projects I've worked on:
+➔ **University Management System**<br>
+● **Tech and Tools:** ASP.NET, ADO.NET, C#<br>
+● Designed an ASP.NET web application using ADO.NET to administer college students. It involves real-time tracking of attendance, marks in examinations, fee payment status, and a student dashboard for viewing academic and financial information.<br>
 
-
-
-1. **AI Search Engine - Anusandhan** (Web) [Source Code](https://github.com/om-ashish-soni/ai_search_engine)
-   - Tech stack: Python , Streamlit, NodeJS, Playwright, Hugging Face Transformers, Mistral , Mixtral , LLM
-   - Description: Anusandhan is an AI-powered search engine designed to provide real-time search capabilities with concise answers and reference sources. It features a frontend UI written in Streamlit for easy interaction and a backend API developed using Node.js.
-
-2. **Vivechan AI For Spirtual Assistance** (Web) [Source Code](https://github.com/om-ashish-soni/vivechan-multilingual)
-   - Tech stack: Python , Streamlit, FAISS , Hugging Face Transformers, Mistral , Mixtral , LLM
-   - Description: Vivechan AI - a powerful AI capable of reasoning on Spiritual Matters, capable of QnA , Discussions on Spiritual Matters.
-
-3. **TopShlok** (Web) [Source Code](https://github.com/om-ashish-soni/TopShlok) [Live Demo](https://topshlok.streamlit.app/)
-   - Tech stack: Python , Streamlit, Sentence Transformers, Annoy Indices
-   - Description: TopShlok : The AI assistant on Shrimad Bhagwad Geeta Ask any query and it will reply most insightful shlok meaning from Shrimad Bhagwad Geeta
-
-4. **Competitive Coding Hub** (Web, Android, iOS)
-   - Tech stack: MongoDB, Angular, Node.js, Express.js, Flutter, JWT, ACE lib
-   - Description: A comprehensive platform for competitive programming and DSA practice, offering programming problems and solutions in C++, Python, and JavaScript.
-
-5. **Network Graph Visualizer** (Web App)
-   - Tech stack: SVG, jQuery, JavaScript
-   - Description: An interactive web app for visualizing and downloading graphs with real-time updates and dynamic input modifications.
-
-6. **Student GPA Predictor** (Web)
-   - Tech stack: Linear Regression, Python, NumPy, PyTorch
-   - Description: Developed an AI model using linear regression and Gradient Descent algorithm to predict a student's GPA based on their internal exam marks.
--->
 
 ## Get in Touch
 
@@ -103,9 +83,9 @@ Here are my key competencies and skills:
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 - ![java](https://img.shields.io/badge/java-%FFA500.svg?style=for-the-badge&logo=java&logoColor=white)
 - ![python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-<br>
 
-### Web Development-Frameworks
+
+## Web Development-Frameworks
  
 - ![node](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
 - ![react](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
@@ -113,23 +93,21 @@ Here are my key competencies and skills:
 - ![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
 - ![spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 - ![django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-<br>
 
 
-### Version Control
+
+## Version Control
 
 - ![github](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) 
-<br>
 
- ### Machine Learning & Deep Learning
+## Machine Learning & Deep Learning
 - ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 - ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 - ![matplotlib](https://img.shields.io/badge/matplotlib-%23FF6C37.svg?style=for-the-badge&logo=matplotlib&logoColor=white) 
 - ![colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)
 - ![kaggle](https://img.shields.io/badge/kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white) 
-<br>
 
-### Testing
+## Testing
 
 - ![postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 - ![selenium](https://img.shields.io/badge/selenium-%23FF9800.svg?style=for-the-badge&logo=selenium&logoColor=white)
@@ -167,8 +145,8 @@ Here are my key competencies and skills:
 🤔 I’m looking for help with: Advanced concepts in Web Development, Data Science, and Machine Learning.<br>
 💬 Ask me about: Web Development frameworks, Data Science, Databases, Operating Systems, and Machine Learning.<br>
 📫 How to reach me: Feel free to connect with me for web dev or ML/Data Science discussions.<br>
-😄 Passionate about: Building full-stack applications, exploring machine learning algorithms, playing with Database(i.e. backend), and diving deep into data.<br>
+😄 Passionate about: Building full-stack applications, exploring machine learning algorithms, playing with Database, and diving deep into data.<br>
 ⚡ Fun fact: I love combining web development with machine learning and data science to create impactful solutions!<br>
 
-Let’s build something amazing together!
-Stay curious and keep going! 😄
+Let’s build something amazing together!<br>
+Stay curious and keep going!👍
