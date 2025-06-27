@@ -30,12 +30,12 @@ Welcome to my GitHub profile! I am a passionate problem-solver specializing in w
 I have a passion for competitive programming in various coding platforms:
 
 - Codechef: 2-star coder (1490 max rating)
-- Leetcode: 250+ problems solved
+- Leetcode: 300+ problems solved
 - Global Rank 319 in Codechef Starters 91
 
 ## Education
 
-- B.Tech. in Computer Engineering (Pre-final year) - Dharmsinh Desai University, Nadiad (CPI: 8.38/10.0)
+- B.Tech. in Computer Engineering (Final year) - Dharmsinh Desai University, Nadiad (CPI: 8.44/10.0)
 - HSC (11-12 Science) - P.V.Modi School (JEE Main-96.98 PR | JEE Advance-3322 AIR)
 - SSC - P.V.Modi School (89.5%-99.66 PR)
 
@@ -49,22 +49,6 @@ I have a passion for competitive programming in various coding platforms:
 - Tools: Google Colab, Postman, Selenium IDE, Git, GitHub
 - Database: MySQL, MongoDB
   
-
-## Projects
-**➔ Bank Management REST API** <br>
-● **Tech and Tools:** Spring Boot, Spring Framework, Spring Data JPA, REST API, MySQL, Postman<br>
-● Developed Rest API with Spring Boot, Hibernate, and JPA for all bank operations, from the opening of an account to deposit, withdrawal, and transfer.<br>
-● It allows the automatic deletion of transaction history when an account is removed, hence ensuring data integrity and secure financial operations that are scalable.
-
-➔ **Device Comparison Web app**<br>
-● **Tech and Tools:** Django Framework, Python, HTML, CSS.<br>
-● Designed a Django web application for comparing mobiles and laptops, integrating search, lter, and side-by-side comparison features.<br>
-● Integration of user reviews, wish lists, and admin device add, edit, and delete capabilities.<br>
-
-➔ **University Management System**<br>
-● **Tech and Tools:** ASP.NET, ADO.NET, C#<br>
-● Designed an ASP.NET web application using ADO.NET to administer college students. It involves real-time tracking of attendance, marks in examinations, fee payment status, and a student dashboard for viewing academic and financial information.<br>
-
 
 ## Get in Touch
 
